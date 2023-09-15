@@ -12,3 +12,9 @@ echo "Please enter your password"
 read -s PASSWORD
 
 echo "Password entered is: $PASSWORD"
+
+echo "Where you belongs to "
+
+read -s CITY
+
+echo "Hi $USERNAME your pwd is $PASSWORD and you are from $CITY"
