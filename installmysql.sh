@@ -25,3 +25,5 @@ then
 else
     echo "Installation of postfix is success"
 fi
+
+#comments added
